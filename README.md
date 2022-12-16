@@ -1,6 +1,6 @@
-Current graduate student at Virginia Tech pursuing a Master of Engineering in Computer Science with concentrations in both Software Development & Applications and Data Analytics & AI. Seeking a remote or hybrid entry level opportunity as a software developer to gain experience in the industry concurrent with my graduate studies.
+Hello! I am a professional software developer and current graduate student at Virginia Tech studying Computer Science, with concentrations in Software Engineering and Data Analytics & AI. My work, interests, and studies center primarily around mobile application development and web application development.
 
-For access to private repositories containing work from my studies at Virginia Tech, contact me by email at cmkoehler1@gmail.com
+For requesting access to private repositories containing work from my studies at Virginia Tech, contact me by email at cmkoehler1@gmail.com
 
 <!---
 Christopher-M-Koehler/Christopher-M-Koehler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
