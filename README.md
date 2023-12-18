@@ -1,4 +1,4 @@
-Hello! I am a professional software developer and current graduate student at Virginia Tech studying Computer Science, with concentrations in Software Development & Applications and Data Analytics & AI. My work, interests, and studies center primarily around mobile application development and web application development.
+Hello! I am a professional software developer and former graduate student at Virginia Tech where I studied computer science with a particular focus on full stack software engineering and building applications with LLMs.
 
 For requesting access to private repositories containing work from my studies at Virginia Tech, contact me by email at cmkoehler1@gmail.com
 
